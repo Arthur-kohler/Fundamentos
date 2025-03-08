@@ -7,7 +7,6 @@
 </head>
 <body>
     <div>
-    <a href="segunda.html">minhas Informações</a>
     <a href="https://www.instagram.com/arthur.bkohler/">Instragram</a>
     <a href="https://github.com/Arthur-kohler">Github</a>
     <h1>Historias</h1>
@@ -18,21 +17,3 @@
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente rerum autem officia expedita laborum deserunt nihil obcaecati, deleniti eum delectus fuga voluptatibus dolor tempora velit consectetur. Rem quaerat voluptas possimus!</p>
 </div>
 </body>
-</html> 
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Eu Sou Arthur</h1>
-    <p>Tenho 21 anos, estou fazendo a 2 fase de sistema de informção na unifebe <br></p>
-</body>
-</html>
