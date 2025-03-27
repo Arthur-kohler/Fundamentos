@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Como fazer o donwload do minecraft</h1>
+    <article>
+        <p>Minecraft Java Edition (PC)</p>
+        <ol>
+            <li>Acesse o site oficial do Minecraft: <a href="https://www.minecraft.net.">https://www.minecraft.net.</a></li>
+            <li>Clique em "Comprar" ou "Baixar"</li>
+            <li>Escolha a versão do Minecraft Java Edition.</li>
+            <li>Se você já tiver uma conta, faça login. Caso contrário, crie uma conta.</li>
+            <li>Após a compra ou assinatura, você será redirecionado para a página de download.</li>
+            <li>Baixe o instalador para o seu sistema operacional</li>
+            <li>Abra o instalador e siga as instruções na tela para concluir a instalação.</li>
+            <li>Após a instalação, inicie o Minecraft a partir do seu launcher.</li>
+        </ol>
+    </article>
+</body>
+</html>
